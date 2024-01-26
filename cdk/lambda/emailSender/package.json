@@ -1,0 +1,14 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.496.0",
+    "@aws-sdk/client-ses": "^3.496.0",
+    "front-matter": "^4.0.2",
+    "marked": "^11.1.1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.72",
+    "@types/node": "^20.11.6"
+  }
+}
